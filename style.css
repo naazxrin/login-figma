@@ -1,0 +1,43 @@
+.login{
+    display: flex;
+}
+.log{
+    text-align: center;
+    margin-left: 500px;
+}
+.log-items{
+    width: 430px;
+    height:453px ;
+    border: solid;
+    border-color:burlywood ;
+    background-color: burlywood;
+    border-radius: 20px;
+}
+.d1{
+    margin-top: 50px;
+    width: 394px;
+    height: 57px;
+    border: solid;
+    border-color: white;
+    border-radius: 10px;
+    background-color: white;
+}
+.dd{
+    margin-top: 0;
+    margin-left: -200px;
+    color: gray;
+}
+#bb{
+    margin-top: 20px;
+    width: 252px;
+    height: 59px;
+    border: solid;
+    border-color: blue;
+    background-color: blue;
+    border-radius: 20px;
+}
+#bb1{
+color: white;
+font-size: 20px;
+margin-top: 12px;
+}
